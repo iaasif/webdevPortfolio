@@ -132,21 +132,27 @@ main {
     margin: 130px 0;
 }
 
-.about-info-container{
+.about-info-container {
     display: flex;
     justify-content: space-around;
 }
-.about-info{
+
+.about-info {
     color: #474747;
     text-align: center;
 }
-#do{
+
+#do {
     padding: 30px 150px;
 }
-.skills-container{
+
+.skills-container {
     display: flex;
     justify-content: space-around;
 }
-.skill{
+
+.skill {
     padding: 30px;
 }
+
+/* hello this is a comment for git chk */
